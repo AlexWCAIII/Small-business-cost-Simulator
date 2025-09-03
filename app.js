@@ -1,5 +1,5 @@
 import React from 'react';
-import HiddenProfitFinder from './components/HiddenProfitFinder';
+import import HiddenProfitFinder from '../hidden-profit-finder-component';
 import './App.css';
 
 function App() {
