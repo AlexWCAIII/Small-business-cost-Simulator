@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AI-Powered Hidden Profit Finder - Strategy Simulation for Business Leaders"
   "private": true,
-  "homepage": "https://Small-business-cost-Simulator.github.io/hidden-profit-finder"
+  "homepage"://https://Small-business-cost-Simulator"
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
